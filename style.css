@@ -353,16 +353,18 @@ footer p:nth-child(2) {
 
 .gotopbtn {
   position: fixed;
-  width: 70px;
-  height: 70px;
+  width: 45px;
+  height: 45px;
   bottom: 40px;
   right: 50px;
-  background: transparent;
+  background: rgb(102, 76, 207);
+  text-align: center;
   color: white;
   text-decoration: none;
   border: 2px solid transparent;
   font-weight: bold;
-  padding: 13px 30px;
+  padding: 2px 12px;
   transition: 0.4s;
   font-size: 30px;
+  border-radius: 15px;
 }
